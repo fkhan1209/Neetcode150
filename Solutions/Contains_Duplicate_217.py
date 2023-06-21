@@ -6,4 +6,4 @@ class Solution:
         if length == set_length: 
             return False 
         else:
-            return True #if condition checking for lengths of both the set and list of numbers
+            return True #'If' condition checking for lengths of both the set and list of numbers
